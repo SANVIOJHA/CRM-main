@@ -82,3 +82,4 @@ Now, the application should be running, and you can access it in your web browse
 This project is made by Sanvi Ojha
 got little help from online resources
 
+![image](https://github.com/user-attachments/assets/8fce0ccd-cc8d-4d4d-b29e-f29675fa5457)
